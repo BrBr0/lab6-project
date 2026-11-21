@@ -1,0 +1,1 @@
+No, 100% coverage only means every line was executed at least once; it does not prove the code is correct for all inputs.
